@@ -2,7 +2,7 @@
   <el-table-v2
     fixed
     :columns="fixedColumns"
-    :data="data"
+    :data="data" 
     :header-height="[50, 40, 50]"
     :header-class="headerClass"
     :width="700"
